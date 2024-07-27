@@ -22,3 +22,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
 - Were you able to achieve the target model performance? No.
 
 
+
+In Summary, this model resulted in about 73% accuracy in predicting the classification model. To boost that number, we can start with better data cleaning. Another approach is to experiment with different activation functions in the model and keep tweaking until we hit higher accuracy.
+
+
